@@ -16,5 +16,7 @@ We build fast, zero-bloat primitives from fundamental principles.
 * **Hardware:** Custom mechatronics, rapid physical prototyping, and PCB design.
 
 ---
+### Philosophy
+
 
 *Based in NY*
